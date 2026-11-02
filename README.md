@@ -24,9 +24,11 @@ fato mecânico e IA generativa (Claude) como par de arquitetura, revisão e audi
 
 ### 🏦 Banco Rendimento — pela IEBT Innovation
 
-A **IEBT Innovation** é uma consultoria brasileira de inovação e transformação digital, fundada em
-2009 em Belo Horizonte, que atua com estratégia de inovação, engenharia de software, IA e dados e
-programas de aceleração para grandes empresas, governos e universidades. Por ela, presto serviço ao
+A **[IEBT Innovation](https://www.iebtinnovation.com/)** é uma consultoria brasileira de tecnologia
+e inovação com mais de 16 anos de atuação e mais de 200 profissionais, com unidades em Belo
+Horizonte, Vitória da Conquista, Santo André e Manaus. Atua em **IA e dados**, **engenharia de
+software** (soluções digitais completas e modernização), **consultoria de inovação e P&D** e
+aceleração de startups, para grandes organizações públicas e privadas. Por ela, presto serviço ao
 **[Banco Rendimento](https://www.rendimento.com.br)**, instituição especializada em **câmbio,
 crédito e soluções de pagamentos**: câmbio para pessoas e empresas (importação, exportação,
 investimento no exterior, hedge com NDF), pagamentos internacionais em reais, contas para não
