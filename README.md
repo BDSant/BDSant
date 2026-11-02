@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Benne - Benedito Santana
 
-**Desenvolvedor .NET Sênior · Arquitetura SaaS multi-tenant · .NET 10 + Angular 21 + PostgreSQL**
+**Desenvolvedor .NET Sênior · Arquitetura SaaS multi-tenant · .NET 10 + Angular 21 + PostgreSQL + MSSQL**
 
 Mais de 12 anos construindo sistemas corporativos de missão crítica — crédito consignado, mercado
 financeiro, telecom — e, desde 2026, arquitetando e entregando do zero duas plataformas SaaS
