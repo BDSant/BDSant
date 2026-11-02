@@ -25,13 +25,20 @@ fato mecânico e IA generativa (Claude) como par de arquitetura, revisão e audi
 ### 🏦 Banco Rendimento — pela IEBT Innovation
 
 > *Especialistas em tecnologia e inovação, impulsionados por IA.*
+> **Respiramos tecnologia, materializamos o futuro e transformamos organizações.**
 
-A **[IEBT Innovation](https://www.iebtinnovation.com/)** é parceira de grandes organizações em
-serviços de IA, dados, desenvolvimento de software e inovação, com mais de 16 anos de atuação e mais de 200 profissionais, com unidades em Belo
-Horizonte, Vitória da Conquista, Santo André e Manaus. Atua em **IA e dados**, **engenharia de
-software** (soluções digitais completas e modernização), **consultoria de inovação e P&D** e
-aceleração de startups, para grandes organizações públicas e privadas. Por ela, presto serviço ao
-**[Banco Rendimento](https://www.rendimento.com.br)**, instituição especializada em **câmbio,
+| **+16** anos no mercado | **+200** profissionais de tech e inovação |
+|---|---|
+
+A **[IEBT Innovation](https://www.iebtinnovation.com/)** atua na interseção entre estratégia,
+inovação, dados, cultura e digital, como parceira estratégica que une negócios e tecnologia para
+transformar com impacto real. Atende grandes organizações públicas e privadas em **IA e dados**,
+**engenharia de software** (soluções digitais completas e modernização), **consultoria de
+inovação e P&D** e aceleração de startups, com unidades em Belo Horizonte, Vitória da Conquista,
+Santo André e Manaus.
+
+Pela IEBT, presto serviço ao **[Banco Rendimento](https://www.rendimento.com.br)**, instituição
+especializada em **câmbio,
 crédito e soluções de pagamentos**: câmbio para pessoas e empresas (importação, exportação,
 investimento no exterior, hedge com NDF), pagamentos internacionais em reais, contas para não
 residentes e **APIs de câmbio e white label** para parceiros.
