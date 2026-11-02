@@ -12,7 +12,8 @@ fato mecânico e IA generativa (Claude) como par de arquitetura, revisão e audi
 ## 📚 Sobre mim
 
 - 🎓 **Formação:** Universidade Cruzeiro do Sul
-- 💼 **Hoje:** Analista Programador na **Wayvis International** — arquitetura do **Way One ERP**
+- 💼 **Hoje:** **IEBT Innovation**, prestando serviço ao **Banco Rendimento**
+- 🏢 **Arquitetura:** **Way One ERP**, na **Wayvis International**
 - 🚀 **Produto próprio:** **Agenda SST** — no ar em [agendasst.com.br](https://agendasst.com.br)
 - 📍 São Paulo, Brasil · híbrido ou remoto
 - 🔎 Aberto a oportunidades
@@ -20,6 +21,35 @@ fato mecânico e IA generativa (Claude) como par de arquitetura, revisão e audi
 ---
 
 ## 📈 Projetos em destaque
+
+### 🏦 Banco Rendimento — pela IEBT Innovation
+
+A **IEBT Innovation** é uma consultoria brasileira de inovação e transformação digital, fundada em
+2009 em Belo Horizonte, que atua com estratégia de inovação, engenharia de software, IA e dados e
+programas de aceleração para grandes empresas, governos e universidades. Por ela, presto serviço ao
+**[Banco Rendimento](https://www.rendimento.com.br)**, instituição especializada em **câmbio,
+crédito e soluções de pagamentos**: câmbio para pessoas e empresas (importação, exportação,
+investimento no exterior, hedge com NDF), pagamentos internacionais em reais, contas para não
+residentes e **APIs de câmbio e white label** para parceiros.
+
+Domínio financeiro regulado, de alta disponibilidade, em que integração e segurança da informação
+não são opcionais — continuidade dos anos de crédito consignado e mercado financeiro.
+
+### 🏢 Way One ERP — Wayvis International
+
+Plataforma SaaS corporativa multi-tenant que governa organizações, holdings, empresas, filiais,
+revendas e clientes em um único ecossistema.
+
+- **Arquitetura congelada antes do código** — documentation-as-code: domínios (DOM), decisões (ADR),
+  modelos de dados (DM) e guias governam o código, nunca o contrário; ADR aceito é imutável.
+- **Bounded contexts** em Clean Architecture + DDD + CQRS: Identidade, Sessão, Organização,
+  Autorização, Comercial, Contratos, Licenciamento, Faturamento, Financeiro, Notificação,
+  Configuração, Segurança, Observabilidade e Auditoria.
+- **Autorização multidimensional** (estrutural, operacional, comercial e temporal) no modelo
+  Subject–Relationship–Time, com projeções de leitura.
+- Autenticação com JWT, MFA/TOTP, recuperação de senha, federação e multi-vínculo.
+- PostgreSQL com RLS e migrations forward-only; observabilidade com OpenTelemetry e Serilog.
+- Método **BMAD + XP** — **2.150+** commits desde 06/2026.
 
 ### 🦺 Agenda SST — [agendasst.com.br](https://agendasst.com.br)
 
@@ -41,22 +71,6 @@ Destaques de engenharia: autorização por catálogo Recurso × Ação (PDP fail
 por dados, log e auditoria particionados por tempo com retenção automática, banco que sobe sem
 superusuário (Cloud SQL), datas de negócio no fuso de Brasília sobre servidor em UTC, importação de
 planilhas reais do cliente (xlsx) com relatório do que entrou, do que não entrou e por quê.
-
-### 🏢 Way One ERP — Wayvis International
-
-Plataforma SaaS corporativa multi-tenant que governa organizações, holdings, empresas, filiais,
-revendas e clientes em um único ecossistema.
-
-- **Arquitetura congelada antes do código** — documentation-as-code: domínios (DOM), decisões (ADR),
-  modelos de dados (DM) e guias governam o código, nunca o contrário; ADR aceito é imutável.
-- **Bounded contexts** em Clean Architecture + DDD + CQRS: Identidade, Sessão, Organização,
-  Autorização, Comercial, Contratos, Licenciamento, Faturamento, Financeiro, Notificação,
-  Configuração, Segurança, Observabilidade e Auditoria.
-- **Autorização multidimensional** (estrutural, operacional, comercial e temporal) no modelo
-  Subject–Relationship–Time, com projeções de leitura.
-- Autenticação com JWT, MFA/TOTP, recuperação de senha, federação e multi-vínculo.
-- PostgreSQL com RLS e migrations forward-only; observabilidade com OpenTelemetry e Serilog.
-- Método **BMAD + XP** — **2.150+** commits desde 06/2026.
 
 > Os dois repositórios são privados. Posso apresentar o código e as decisões em uma conversa técnica.
 
@@ -117,6 +131,7 @@ CI/CD · Jenkins · Git
 
 | Período | Empresa | Atuação |
 |---|---|---|
+| 2026 – hoje | **IEBT Innovation** | Prestação de serviço ao Banco Rendimento — câmbio, crédito e pagamentos |
 | 2026 – hoje | **Wayvis International** | Arquitetura e desenvolvimento do Way One ERP (SaaS multi-tenant) |
 | 2026 – hoje | **Agenda SST** (produto próprio) | Concepção, arquitetura, desenvolvimento e operação em produção |
 | 2018 – 2025 | **Consiglog Tecnologia e Soluções** | Crédito consignado: convênios, contratos, margens, folha; integrações com bancos; SQL de alta performance |
