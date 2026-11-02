@@ -39,9 +39,17 @@ Santo André e Manaus.
 
 Pela IEBT, presto serviço ao **[Banco Rendimento](https://www.rendimento.com.br)**, instituição
 especializada em **câmbio,
-crédito e soluções de pagamentos**: câmbio para pessoas e empresas (importação, exportação,
-investimento no exterior, hedge com NDF), pagamentos internacionais em reais, contas para não
-residentes e **APIs de câmbio e white label** para parceiros.
+crédito e soluções de pagamentos**:
+
+- **Soluções de pagamento** — maquininha **Rendimento Pay**, Pix em compras no exterior e
+  automação de pagamentos recorrentes, como comissões de imobiliárias e incorporadoras.
+- **Câmbio** — para pessoas e empresas: importação, exportação, investimento no exterior, hedge com
+  NDF e **APIs de câmbio e white label** para parceiros.
+- **Conta Não Residente** — conta para brasileiros e estrangeiros domiciliados no exterior, com
+  IBAN e SWIFT para transferências internacionais.
+- **Google AdSense** — recebimento em reais dos pagamentos internacionais de criadores e
+  publicadores.
+- **Segurança** — orientação ao cliente e proteção das transações.
 
 Domínio financeiro regulado, de alta disponibilidade, em que integração e segurança da informação
 não são opcionais — continuidade dos anos de crédito consignado e mercado financeiro.
