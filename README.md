@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Benedito Santana Filho
+# 👋 Olá, eu sou Benne - Benedito Santana
 
 **Desenvolvedor .NET Sênior · Arquitetura SaaS multi-tenant · .NET 10 + Angular 21 + PostgreSQL**
 
